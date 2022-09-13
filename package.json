@@ -1,0 +1,20 @@
+{
+  "name": "proyecto-async",
+  "version": "1.0.0",
+  "description": "Esto es una prueba de un proyecto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trilord243/Proyecto-Async.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trilord243/Proyecto-Async/issues"
+  },
+  "homepage": "https://github.com/trilord243/Proyecto-Async#readme"
+}
